@@ -3,7 +3,7 @@
 <!--
 **mmcint/mmcint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Mike and I am a Computational Geoscientist and Data Scientist at Onward.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
