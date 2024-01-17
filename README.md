@@ -2,6 +2,9 @@
 
 My name is Mike and I am a Computational Geoscientist and Data Scientist at Onward.
 
+🔭 I’m currently working on new Onward Data Science Challenges
+
+🌱 I’m currently learning [Practical Deep Learning for Coders](https://course.fast.ai/)
 <!--
 **mmcint/mmcint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
