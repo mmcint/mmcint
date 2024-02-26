@@ -6,6 +6,4 @@ I'm passionate about geoscience and technology, and love when the two mesh. I's 
 
 🔭 I’m currently working on new Onward Data Science Challenges. In my free time I am working on my personal fantasy football blog to prepare for the next season.
 
-💬 Feel free to ask me about Geology 🪨, Geophysics 👨‍💻, and Fantasy Football 🏈
-
 🌱 I’m currently learning [Practical Deep Learning for Coders](https://course.fast.ai/)
