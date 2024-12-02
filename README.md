@@ -6,7 +6,7 @@ I helped build the Geophysical Foundation Model while at ThinkOnward. You can ch
 
 I'm passionate about technology, and love when it meshes with my interests, like sports and geoscience. I's also a maintainer of the [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) list. 
 
-[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmcint)](https://github.com/anuraghazra/github-readme-stats)
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmcint&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Projects
 [![Lyra Graphtool](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=lyra_graphtool&show_owner=true)](https://github.com/thinkonward/lyra_graphtool)
