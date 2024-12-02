@@ -6,14 +6,9 @@ I helped build the Geophysical Foundation Model while at ThinkOnward. You can ch
 
 I'm passionate about technology, and love when it meshes with my interests, like sports and geoscience. I's also a maintainer of the [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) list. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmcint)](https://github.com/anuraghazra/github-readme-stats)
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmcint)](https://github.com/anuraghazra/github-readme-stats)
 
-# Projects
-## Packages
-[![Lyra Graphtool](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=lyra_graphtool&show_owner=false)](https://github.com/thinkonward/lyra_graphtool)
-
-## Research
-[![Geophysical Foundation Model](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=geophysical-foundation-model&show_owner=false)](https://github.com/thinkonward/geophysical-foundation-model)
-
-## Teaching
-[![Challenges](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=challenges&show_owner=true)](https://github.com/thinkonward/challenges)
+# My Projects
+[![Lyra Graphtool](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=lyra_graphtool&show_owner=true)](https://github.com/thinkonward/lyra_graphtool)
+[![Geophysical Foundation Model](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=geophysical-foundation-model&show_owner=true)](https://github.com/thinkonward/geophysical-foundation-model)
+[![Challenges](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=challenges&show_owner=false)](https://github.com/thinkonward/challenges)
