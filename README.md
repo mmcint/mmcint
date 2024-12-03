@@ -8,8 +8,6 @@ I'm passionate about technology, and love when it meshes with my interests, like
 
 [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmcint&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-# My Website
-[![Mike McIntire](https://github-readme-stats.vercel.app/api/pin/?username=mmcint&repo=mmcint.github.io&show_owner=true&theme=midnight-purple)](https://github.com/mmcint/mmcint.github.io)
 # My Projects
 [![Geophysical Foundation Model](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=geophysical-foundation-model&show_owner=true&theme=midnight-purple)](https://github.com/thinkonward/geophysical-foundation-model)
 [![Lyra Graphtool](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=lyra_graphtool&show_owner=true&theme=midnight-purple)](https://github.com/thinkonward/lyra_graphtool)
