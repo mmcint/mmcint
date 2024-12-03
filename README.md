@@ -4,7 +4,7 @@ My name is Mike and I am a Data Scientist and Computational Geoscientist with a 
 
 I helped build the Geophysical Foundation Model while at ThinkOnward. You can checkout that model on [GitHub](https://github.com/thinkonward/geophysical-foundation-model/releases/tag/v1.0) and [HuggingFace](https://huggingface.co/thinkonward/geophysical-foundation-model). This model is associated with the a [poster presented](https://imageevent.aapg.org/portals/26/abstracts/2024/4092088.pdf) at AAPG/SEG IMAGE 2024 Conference in Houston,Texas.
 
-I'm passionate about technology, and love when it meshes with my interests, like sports and geoscience. I'm also a maintainer of the [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) list. 
+I'm passionate about technology, and love when it meshes with my interests, like sports and geoscience. 
 
 [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmcint&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
