@@ -13,3 +13,7 @@ I'm passionate about technology, and love when it meshes with my interests, like
 [![Lyra Graphtool](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=lyra_graphtool&show_owner=true&theme=midnight-purple)](https://github.com/thinkonward/lyra_graphtool)
 [![Section Seeker](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=section-seeker&show_owner=false&theme=midnight-purple)](https://github.com/thinkonward/section-seeker)
 [![Challenges](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=challenges&show_owner=false&theme=midnight-purple)](https://github.com/thinkonward/challenges)
+
+# Hugging Face 🤗 
+[![Geophysical Foundation Model](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=geophysical-foundation-model&show_owner=true&theme=midnight-purple)](https://huggingface.co/thinkonward/section-seeker-large-16)
+
