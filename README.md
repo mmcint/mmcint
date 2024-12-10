@@ -14,6 +14,9 @@ I'm passionate about technology, and love when it meshes with my interests, like
 [![Section Seeker](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=section-seeker&show_owner=false&theme=midnight-purple)](https://github.com/thinkonward/section-seeker)
 [![Challenges](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=challenges&show_owner=false&theme=midnight-purple)](https://github.com/thinkonward/challenges)
 
-# Hugging Face 🤗 
-[![Geophysical Foundation Model](https://huggingface.co/thinkonward/section-seeker-large-16)](https://huggingface.co/thinkonward/section-seeker-large-16)
+# My HuggingFace🤗  Contributions
+[![Section Seeker - Large](https://huggingface.co/thinkonward/section-seeker-large-16)](https://huggingface.co/thinkonward/section-seeker-large-16)
+[![Section Seeker - Base](https://huggingface.co/thinkonward/section-seeker-base-16)](https://huggingface.co/thinkonward/section-seeker-base-16)
+[![Geophysical Foundation Model](https://huggingface.co/thinkonward/geophysical-foundation-model)](https://huggingface.co/thinkonward/geophysical-foundation-model)
+
 
